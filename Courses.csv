@@ -1,0 +1,51 @@
+CourseID,CourseName,Instructor,Credits,C_StudentID
+101,Mathematics,Prof. Anderson,3,1
+102,English Literature,Prof. Thompson,4,200
+103,Computer Science,Prof. Williams,5,3
+104,History,Prof. Davis,3,450
+105,Chemistry,Prof. Johnson,4,500
+106,Physics,Prof. Martinez,5,6
+107,Art,Prof. Robinson,2,7
+108,Music,Prof. White,2,8
+109,Biology,Prof. Garcia,4,9
+110,Geography,Prof. Moore,3,100
+111,Psychology,Prof. Clark,4,11
+112,Economics,Prof. Turner,3,12
+113,Sociology,Prof. Harris,3,13
+114,Physical Education,Prof. King,2,140
+115,Foreign Language,Prof. Scott,2,15
+116,Business Management,Prof. Campbell,4,16
+117,Marketing,Prof. Adams,3,17
+118,Statistics,Prof. Martinez,4,180
+119,Engineering,Prof. Collins,5,19
+120,Environmental Science,Prof. Parker,3,200
+121,Political Science,Prof. Martinez,3,21
+122,Literary Analysis,Prof. Thompson,4,22
+123,Computer Programming,Prof. Johnson,5,23
+124,Chemical Engineering,Prof. Davis,4,24
+125,Social Work,Prof. Anderson,3,25
+126,Criminal Justice,Prof. Wilson,4,260
+127,Public Speaking,Prof. Carter,2,27
+128,Anthropology,Prof. Adams,3,28
+129,Mathematical Modeling,Prof. Thompson,4,29
+130,Journalism,Prof. Harris,3,300
+131,Health Sciences,Prof. Turner,4,310
+132,Environmental Studies,Prof. Miller,3,320
+133,Film Studies,Prof. Young,3,33
+134,Microbiology,Prof. Lewis,4,34
+135,Political Philosophy,Prof. King,2,35
+136,Finance,Prof. Scott,4,36
+137,Human Resource Management,Prof. Baker,3,37
+138,Astrophysics,Prof. Griffin,5,380
+139,Ethics,Prof. Morris,3,39
+140,Graphic Design,Prof. Martinez,3,40
+141,International Relations,Prof. Thompson,4,41
+142,Applied Mathematics,Prof. Evans,4,42
+143,Fashion Design,Prof. Rodriguez,2,43
+144,Operations Management,Prof. Simmons,3,440
+145,Neuroscience,Prof. Turner,4,45
+146,Drama,Prof. Flores,2,46
+147,Organizational Behavior,Prof. Sanders,3,47
+148,International Business,Prof. Ward,4,48
+149,Medical Ethics,Prof. Murphy,3,49
+150,Data Science,Prof. Russell,5,500
